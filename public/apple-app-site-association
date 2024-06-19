@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FL2UZ75BM6.app.brainants.leadsquik",
+        "paths": [
+          "/records/*"
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "FL2UZ75BM6.app.brainants.leadsquik"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "FL2UZ75BM6.app.brainants.leadsquik"
+    ]
+  }
+}
