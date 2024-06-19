@@ -5,7 +5,7 @@
       {
         "appID": "FL2UZ75BM6.app.brainants.leadsquik",
         "paths": [
-          "/records/*"
+          "*"
         ]
       }
     ]
